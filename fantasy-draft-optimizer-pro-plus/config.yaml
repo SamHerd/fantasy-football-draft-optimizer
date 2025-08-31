@@ -1,0 +1,24 @@
+league:
+  teams: 12
+  roster:
+    QB: 1
+    RB: 2
+    WR: 2
+    TE: 1
+    FLEX: 1
+  bench: 5
+
+flex_allocation:
+  RB: 0.5
+  WR: 0.4
+  TE: 0.1
+
+draft:
+  total_rounds: 16
+  pick_number: 12
+
+weights:
+  projected_points: 0.45
+  vorp: 0.35
+  risk: 0.10
+  adp_value: 0.10
